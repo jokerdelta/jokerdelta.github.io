@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Power of Creation: Coding for a Better Future."
-date:       2017-12-24 18:40:21 +0000
+date:       2017-12-24 13:40:22 -0500
 permalink:  the_power_of_creation_coding_for_a_better_future
 ---
 
