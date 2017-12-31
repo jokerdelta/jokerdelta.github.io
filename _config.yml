@@ -1,10 +1,10 @@
 # Site settings
-title: Web scraping with Nokogiri: Function or Folly?
+title: Second Chances: Coding for Humanity
 header-img: img/home-bg.png
 email: jokerdelta@yahoo.com
 copyright_name: jokerdelta
 description: > # this means to ignore newlines until "baseurl:"
-  A fledgling Ruby dev's foray into the volatile world of web scraping.
+  A fledgling Rubyist's foray into full-stack web development.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: jokerdelta
 github_username:  jokerdelta
